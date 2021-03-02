@@ -1,0 +1,15 @@
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const CLEAR_REGISTER = "CLEAN_REGISTER";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const USER_LOADED = "USER_LOADED";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const GET_PROFILE = "GET_PROFILE";
+export const GET_WORKOUTS = "GET_WORKOUTS";
+export const GET_WORKOUT = "GET_WORKOUT";
+export const WORKOUT_ERROR = "WORKOUT_ERROR";
+export const GET_SET = "GET_SET";
+export const PROFILE_ERROR = "PROFILE_ERROR";
+export const CLEAR_PROFILE = "CLEAR_PROFILE";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT = "LOGOUT";
